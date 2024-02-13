@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.movie {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 6%;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
